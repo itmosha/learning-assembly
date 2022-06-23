@@ -1,7 +1,10 @@
-# learning nasm assembly
-Book: "Beginning x64 Assembly Programming: From Novice to AVX Professional" by Jo Van Hoey
+# Learning Intel x64 Assembly
+I am using [this book](https://www.amazon.com/Beginning-x64-Assembly-Programming-Professional/dp/1484250753) for learning
 
-Programs:
+Also I am using SimpleASM for writing, running and debugging my code
+
+Programs list:
+
 	1 - Displaying "Hello world"
 	2 - Printing formatted strings/numbers
 	3 - Jumping. Comparing two numbers (=, >, <)
