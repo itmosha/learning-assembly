@@ -1,2 +1,2 @@
 make -s
-./main
+time ./main
