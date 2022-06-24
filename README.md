@@ -9,4 +9,4 @@ Programs list:
 	2 - Printing formatted strings/numbers
 	3 - Jumping. Comparing two numbers (=, >, <)
 	4 - Looping. Calculating sum from 1 to a certain number
-	5 - Basic integer operation (sum, division, product etc.)
+	5 - Basic integer operations (sum, division, product etc.)
