@@ -10,3 +10,5 @@ Programs list:
 	3 - Jumping. Comparing two numbers (=, >, <)
 	4 - Looping. Calculating sum from 1 to a certain number
 	5 - Basic integer operations (sum, division, product etc.)
+	6 - Using stack and its operations for reversing a string
+	7 - Floating-point numbers, basic operations on them
