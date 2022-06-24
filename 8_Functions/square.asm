@@ -32,8 +32,8 @@ square_perimeter:
 
 square:
     section .data
-        .format_area dq "The area of the square is %d", 10, 0
-        .format_perimeter dq "The perimeter of the square is %d", 10, 0
+        .format_area db "The area of the square is %d", 10, 0
+        .format_perimeter db "The perimeter of the square is %d", 10, 0
         
     section .text
         push rbp
