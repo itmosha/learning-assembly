@@ -12,3 +12,4 @@ Programs list:
 	5 - Basic integer operations (sum, division, product etc.)
 	6 - Using stack and its operations for reversing a string
 	7 - Floating-point numbers, basic operations on them
+	8 - Using functions to calculate areas, perimeters etc.
