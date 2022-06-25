@@ -1,3 +1,4 @@
+# makefile for a single .asm file
 main: main.o
 	gcc -o main main.o -no-pie
 main.o: main.asm
