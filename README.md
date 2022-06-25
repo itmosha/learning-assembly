@@ -13,3 +13,4 @@ Programs list:
 	6 - Using stack and its operations for reversing a string
 	7 - Floating-point numbers, basic operations on them
 	8 - Using functions to calculate areas, perimeters etc.
+	9 - Using multiple .asm files at once
