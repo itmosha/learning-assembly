@@ -5,12 +5,18 @@ Also I am using SimpleASM for writing, running and debugging my code
 
 Programs list:
 
-	1 - Displaying "Hello world"
-	2 - Printing formatted strings/numbers
-	3 - Jumping. Comparing two numbers (=, >, <)
-	4 - Looping. Calculating sum from 1 to a certain number
-	5 - Basic integer operations (sum, division, product etc.)
-	6 - Using stack and its operations for reversing a string
-	7 - Floating-point numbers, basic operations on them
-	8 - Using functions to calculate areas, perimeters etc.
-	9 - Using multiple .asm files at once
+    1. Functions
+        - first_program: displaying "hello world"
+        - format_printing: printing formatted strings
+        - square_and_circle: using functions to calculate areas, perimeters etc.
+        - external_functions: using multiple .asm files at once
+        - arguments_passing: using registers for passing mutiple parameters
+    2. Memory
+        - stack_alignment: main stack functionality
+        - string_reversing: using stack to reverse a string
+    3. NumberOperations
+        - integers: basic operations on integers
+        - floats: basic operations on floating-point numbers
+    4. Other
+        - looping: using loops in code
+        - jumping: using conditional statements
